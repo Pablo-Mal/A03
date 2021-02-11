@@ -4,6 +4,7 @@ Spring2021- IS117 Assignment 3 Section 2
 **Tutorial on setting up git/webstorm/github**: <br>
   1. When in webstorm, select file -> New -> project<br>
   2. On top bar select VCS -> Share project on GitHub<br>
+  3. file -> New -> html -> html 5 (click accept to commiting to GitHub)
 
 
 **Terms**:<br>
