@@ -1,7 +1,12 @@
 # A03-IS117-002-S21
 Spring2021- IS117 Assignment 3 Section 2
 
-**Tutorial on setting up git/webstorm/github**: <br>
+**Tutorial on setting up git:**<br>
+  1. download git from https://git-scm.com/downloads (you may leave all download options default)<br>
+  2. You can now right click in any folder and use "Git GUI" or "Git Bash"<br>
+  **Git** bash is a command line version of the **Git** uptions that are available when using webstorm.<br>
+<br>
+**Tutorial on setting up webstorm/github:** <br>
   1. First, create an account on **github.com**<br>
   2. Download the webstorm application<br>
   3. When in webstorm, select file -> New -> project <br>
