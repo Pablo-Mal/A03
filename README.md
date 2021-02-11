@@ -8,7 +8,7 @@ Spring2021- IS117 Assignment 3 Section 2
   
 **Tutorial on setting up webstorm/github:** <br>
   1. First, create an account on https://github.com/ <br>
-  2. Download the webstorm application<br>
+  2. Download the webstorm application from https://www.jetbrains.com/webstorm/download/#section=windows<br>
   3. When in webstorm, select file -> New -> project <br>
   4. On top bar select VCS -> Share project on GitHub -> sign into GitHub account (It will then ask you to make a **Repository** name, this of this as the core name of eveyrhing you will be working on)<br>
   5. file -> New -> html -> html 5 (click accept to commiting to GitHub)<br>
