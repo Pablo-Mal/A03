@@ -4,8 +4,8 @@ Spring2021- IS117 Assignment 3 Section 2
 **Tutorial on setting up git/webstorm/github**: <br>
   1. First, create an account on **github.com**<br>
   2. Download the webstorm application<br>
-  3. When in webstorm, select file -> New -> project<br>
-  4. On top bar select VCS -> Share project on GitHub -> sign into GitHub account<br>
+  3. When in webstorm, select file -> New -> project <br>
+  4. On top bar select VCS -> Share project on GitHub -> sign into GitHub account (It will then ask you to make a **Repository** name, this of this as the core name of eveyrhing you will be working on)<br>
   5. file -> New -> html -> html 5 (click accept to commiting to GitHub)<br>
   6. After creating the HTML page, on the top right of webstorm there is a checkmark that says **commit** when that is click webstorm will give you a checklist askign for everything you want to **commit**, make sure the HTML file is selected. Add a comment in the comment section describing what was changed or added (If it's teh first time put "First upload"). After, on the bottom left you will see two options **Commit** and **Commit and Push** I recommend selecting **Commit and Push** because it will save and upload/update your HTML file onto **GitHub**.<br>
 
